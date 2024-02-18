@@ -40,8 +40,6 @@ Some of our projects include:
     Octopus](https://gitlab.com/sequoia-pgp/sequoia-octopus-librnp): A
     drop-in replacement of `rnp` for Thunderbird, which restores its
     `gpg` integration, and web of trust support.
-  - [PySequoia](https://codeberg.org/wiktor/pysequoia): A a
-    high-level, pythonic interface to the Sequoia libraries.
   - [Sequoia
     git](https://gitlab.com/sequoia-pgp/sequoia-octopus-librnp): A
     specification, and tool for managing a commit signing policy, and
